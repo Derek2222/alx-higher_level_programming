@@ -1,3 +1,3 @@
 git add .
-git commit -m "fourth python 3 more data"
-git push 
+git commit -m "fourth python more data"
+git push
