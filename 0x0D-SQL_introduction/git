@@ -1,0 +1,11 @@
+#!/bin/bash  
+
+clear
+
+read -p "Enter Your Commit Message:  " my_message
+
+git add .
+git commit -m "${my_message}"
+git push
+
+echo ". . . . Your changes have been commited master Derek . . . . "
